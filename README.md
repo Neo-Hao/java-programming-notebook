@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Neo-Hao/java-programming-notebook/master)
 
-Authors: [Qiang Hao](http://qhao.info) and Kira Jaeger
+Authors: [Qiang Hao](http://qhao.info) with the help from Kira Jaeger
 
 This interactive textbook/notebook/tutorial serves as a supplement for lectures of Java Programming and Linear Data Structures at Western Washington University.
 
